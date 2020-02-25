@@ -1,0 +1,172 @@
+Xsession: X session started for ubuntu at Mon Feb 24 04:57:27 UTC 2020
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2878]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2878]: directory '/home/ubuntu/.gnupg' created
+gpg-agent[2878]: directory '/home/ubuntu/.gnupg/private-keys-v1.d' created
+gpg-agent[2879]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2871): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2871): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-86-142:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2906): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:2906): GLib-GObject-CRITICAL **: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:2906): GLib-GObject-CRITICAL **: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfwm4:2881): GLib-CRITICAL **: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:2881): xfwm4-WARNING **: The property '/general/double_click_distance' of type int is not supported
+
+(xfwm4:2881): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 2905: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:2881): xfwm4-WARNING **: Another compositing manager is running on screen 0
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1364x657) and logical screen size (1304x648) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1304x648) and logical screen size (1364x657) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1364x657) and logical screen size (1304x648) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1304x648) and logical screen size (1364x657) do not match
+
+(nm-applet:2898): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1364x657) and logical screen size (1304x648) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1304x648) and logical screen size (1364x657) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1364x657) and logical screen size (1304x648) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1304x648) and logical screen size (1364x657) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1364x657) and logical screen size (1304x648) do not match
+
+(xfwm4:2881): xfwm4-WARNING **: output size (1304x648) and logical screen size (1364x657) do not match
+
+(xfce4-terminal:5600): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+[22539:22539:0224/074853.409920:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+[22563:1:0224/074900.486074:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[22563:1:0224/074900.486672:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[22563:1:0224/074900.827661:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[22563:1:0224/074900.828159:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[22563:1:0224/074900.828613:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[22563:1:0224/074900.829149:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+Fontconfig error: Cannot load default config file
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+[23040:23040:0224/074942.010863:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+[23056:7:0224/074942.206225:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+[23056:1:0224/074949.339060:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[23056:1:0224/074949.339536:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[23042:23047:0224/075004.011711:ERROR:ssl_client_socket_impl.cc(935)] handshake failed; returned -1, SSL error code 1, net_error -107
+[23042:23047:0224/075004.027096:ERROR:ssl_client_socket_impl.cc(935)] handshake failed; returned -1, SSL error code 1, net_error -107
+Fontconfig error: Cannot load default config file
+[23042:23047:0224/075031.472984:ERROR:ssl_client_socket_impl.cc(935)] handshake failed; returned -1, SSL error code 1, net_error -107
+[23042:23047:0224/075031.474843:ERROR:ssl_client_socket_impl.cc(935)] handshake failed; returned -1, SSL error code 1, net_error -107
+[23364:23364:0224/075351.527498:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+[23381:7:0224/075351.666168:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+[23381:1:0224/075359.936024:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[23381:1:0224/075359.936510:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+Fontconfig error: Cannot load default config file
+[24025:1:0224/081315.727493:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24025:1:0224/081315.728635:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24025:1:0224/081315.730782:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24025:1:0224/081315.731449:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24025:1:0224/081315.947681:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24025:1:0224/081315.950197:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24025:1:0224/081315.957781:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24025:1:0224/081315.958230:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24207:1:0224/101419.835050:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24207:1:0224/101419.835710:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24207:1:0224/101419.836716:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[24207:1:0224/101419.837055:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 104 (Connection reset by peer) on X server :10.0.
+gpg-agent[2879]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2879]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2879]: SIGTERM received - shutting down ...
+gpg-agent[2879]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Tue Feb 25 04:27:10 UTC 2020
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2897]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2898]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2890): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2890): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-86-142:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2926): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 2924: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:2900): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2917): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+[3084:3084:0225/042737.913528:ERROR:sandbox_linux.cc(372)] InitializeSandbox() called with multiple threads in process gpu-process.
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+[3110:1:0225/042743.368335:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[3110:1:0225/042743.368837:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[5236:1:0225/060531.979117:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[5236:1:0225/060531.983362:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[5235:1:0225/060535.906943:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[5235:1:0225/060535.907446:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[5235:1:0225/060535.908497:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[5235:1:0225/060535.908849:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.Secret.Collection' on object at path /org/freedesktop/secrets/collection/login
+
+(xfce4-terminal:5497): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+Opening in existing browser session.
+[6184:1:0225/064223.087790:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6184:1:0225/064223.090115:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.831227:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.831898:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.833310:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.833973:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.835127:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.835511:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.838033:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.838379:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.840474:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.841110:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.878684:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6181:1:0225/064225.879031:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.327128:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.327604:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.329186:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.329526:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.331466:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.332109:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.333243:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064229.333564:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064243.793656:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6228:1:0225/064243.794161:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+Fontconfig error: Cannot load default config file
+[6301:1:0225/064315.163850:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064315.164365:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064315.217155:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064315.217708:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064315.310870:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064315.312730:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064316.284049:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064316.284653:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064316.290343:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[6301:1:0225/064316.290645:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
