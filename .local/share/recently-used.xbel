@@ -23,4 +23,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/ubuntu/sample_project_jenkins_eduramp/sample-project/index.html" added="2020-02-25T07:23:06Z" modified="2020-02-25T07:23:06Z" visited="2020-02-25T07:23:06.641311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="x-www-browser" exec="&apos;x-www-browser %u&apos;" modified="2020-02-25T07:23:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

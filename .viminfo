@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
 :q!
 
 # Search String History (newest to oldest):
@@ -21,9 +22,28 @@
 # Registers:
 
 # File marks:
-'0  1  0  /etc/sudoers
+'0  1  18  ~/sample_project_jenkins_eduramp/sample-project/test.txt
+'1  16  1  ~/sample_project_jenkins_eduramp/sample-project/index.html
+'2  1  0  /etc/sudoers
 
 # Jumplist (newest first):
+-'  1  18  ~/sample_project_jenkins_eduramp/sample-project/test.txt
+-'  16  1  ~/sample_project_jenkins_eduramp/sample-project/index.html
+-'  1  1  ~/sample_project_jenkins_eduramp/sample-project/index.html
+-'  1  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  16  1  ~/sample_project_jenkins_eduramp/sample-project/index.html
+-'  1  1  ~/sample_project_jenkins_eduramp/sample-project/index.html
+-'  1  0  /etc/sudoers
 -'  1  0  /etc/sudoers
 
 # History of marks within files (newest to oldest):
+
+> ~/sample_project_jenkins_eduramp/sample-project/test.txt
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/sample_project_jenkins_eduramp/sample-project/index.html
+	"	16	1
